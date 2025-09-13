@@ -2,7 +2,7 @@
 
 Excess2Need - Food donation project (Spring Boot + JWT + React + Tailwind + PostgreSQL)
 
-## use foodshare html file for UI demo 
+## use html file for UI demo 
 
 ## What works
 - User registration (backend + frontend)
@@ -25,4 +25,5 @@ npm run dev
 
 ## Notes
 - Put real DB and JWT secret in environment variables or `application.properties` (not committed).
+
 
